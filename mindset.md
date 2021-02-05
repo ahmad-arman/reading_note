@@ -17,18 +17,19 @@
 
 
 
-   I Work evey day for 15 hour that is very hard but i am Continuous
+  I Work evey day for 15 hour that is very hard but i am Continuous
 
-   # Here’s a simple  differences between a fixed and a growth mindset:
+# Here’s a simple  differences between a fixed and a growth mindset:
 
-   ![img](assets/mind.png)   
+![img](assets/mind.png)   
 
 
 
-  # Three reminders  keep myrself in a growth mindset 
 
-    1-I learn to more 15 hours in 
+# Three reminders  keep myrself in a growth mindset 
 
-    2-any thing for me is not hard and talk my self you can do it 
+ 1-I learn to more 15 hours in 
 
-    3-I am gift my self any thing not talk it evry day if sucssec or not
+ 2-any thing for me is not hard and talk my self you can do it 
+
+ 3-I am gift my self any thing not talk it evry day if sucssec or not
