@@ -71,13 +71,50 @@
 
  2- ID Attribute 
 
- it use to  mark something in text as quote.
+  is used to specify a unique id for an HTML element.
+  You cannot have more than one element with the same id in an HTML document.
 
   ## Example 
 
- `<p id="pull quote "> ahmad arman is a succses man and he is a different he is a good man. </p>`
+     <!DOCTYPE html>
 
- ![img]() 
+     <html>
+
+      <head> 
+        <title> example </title>
+         <style>
+            #ahmadarman
+                    {
+                background-color: lightblue;
+                color: black;
+                padding: 40px;
+                text-align: center;}`
+ 
+          </style>
+
+      </head>
+
+      <body>
+    
+        <h1 id="ahmadarman"> ahmad arman </h1>
+
+      </body>
+
+     <html>
+
+
+### result 
+
+ ![img](assets/ss.png) 
+
+ 3- Class Attribute  
+ A method for identifying multiple items
+On it is different from
+Other items on the page.
+
+ ![img](assets/22.png)
+
+4- 
 
 
  
