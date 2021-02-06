@@ -23,7 +23,7 @@ this program you can control in of thes  document,formatting words as bold or it
  
   ![img](assets/555.png)
 
-### 2-list : 
+### 2-list :
 
  if you want number list just write a number 
 
@@ -48,8 +48,7 @@ And when need sub point you can put two space then write dash or star
    
            - reading_note  
         
- 
-  ### result : 
+### result : 
 
 if you want number list just write a number 
 
