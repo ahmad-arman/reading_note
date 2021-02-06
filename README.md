@@ -17,8 +17,10 @@ I live in Amman,I am 23 years old,I Like a software ,I like drive cars.
 # **Table Content**
 
  * [Growth mindset](mindset.md)
+ * [text editor ](read01.md)
  * [Markdown](read02a.md)
  * [Git](read02b.md)
  * [HTML](read03.md) 
  * [example](example.html)
+
  

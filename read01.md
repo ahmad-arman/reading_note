@@ -21,6 +21,9 @@ TextWrangler, with Bare Bones
 
 ![img](assets/1.jpg)
 
+![img](assets/2222.jpeg)
+
+![img](assets/9999.png)
 
 # The Differint Between Texe Editor And IDEs
 
