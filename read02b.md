@@ -14,8 +14,9 @@ git is VDCS (distributed version control system) , it easy to learn and it is as
  2- modified : the file change but do not save on local datadase 
 
  3- Staged :Flagged a file’s changed version to be committed in the next snapshot
+ 
+# git command 
 
-  # git command 
   1- git config --global user.name" here write user name om github website  "
   
   2- git config --global user.email "write your email " 
