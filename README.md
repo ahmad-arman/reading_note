@@ -24,5 +24,8 @@ I live in Amman,I am 23 years old,I Like a software ,I like drive cars.
  * [example](example.html)
  * [javascript](read04.md)
  * [operator and loops](read05.md)
+ * [founction](read06a.md)
+ * [web page with css](read06b.md)
+ 
 
  
