@@ -4,9 +4,11 @@
 
 
 ## A BASIC FUNCTION 
+
  ![img](assets/kl.png)
 
 ## declaring a function 
+
 ![img](assets/ppppppp.png)
 
 ## Invoking a JavaScript Function
@@ -24,13 +26,16 @@ some function taht need some information like parameter ,
 parameter act like a variables 
 
 ## for example 
+
 ![img](assets/aaaa.png)
 
 ## calling a function that need information 
 when calling the function we need some information inside to enable the function work 
 
 ## for example 
+
 ![img](assets/ssss.png)
 
 ## getting a single value out of function 
+
 ![img](assets/eeee.png)
