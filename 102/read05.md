@@ -66,7 +66,7 @@ This operator to check the number on the left is greater than or equal number on
 # logical operators 
 that allow you to compare result of more than one comparison operator 
 
-![img](assets/ooo.png)
+![img](/assets/ooo.png)
 
 ## Example 
 1- && logical and 
@@ -112,7 +112,7 @@ JavaScript loops are used to repeatedly run a block of code - until a certain co
 
 if you need to run code aspecific number of time use for , usually a counter  which is used to tell how many time the loop shuold run . 
 
-![img](assets/9999999.png)
+![img](/assets/9999999.png)
 
  we have three steps 
 
@@ -122,16 +122,16 @@ if you need to run code aspecific number of time use for , usually a counter  wh
 
  3- ubdate : every time the loop has run it adds one to the counter 
 
- ![img](assets/pjm.png)
+ ![img](/assets/pjm.png)
 
 
- ![img](assets/tryr.png)
+ ![img](/assets/tryr.png)
 
 2-  `while loops`
 
  The while statement creates a loop that is executed while a specified condition is true. The loop will continue to run as long as the condition is true. It will only stop when the condition becomes false. ... do/while - loops through a block of code once, and then repeats the loop while a specified condition is true
 
-![img](assets/phgf.png)
+![img](/assets/phgf.png)
 
 
 

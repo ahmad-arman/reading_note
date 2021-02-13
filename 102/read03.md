@@ -2,7 +2,7 @@
 
  HTML : Heyper text Markup Language.  Html : it help software developer to change structure  documents to help peaple in reading clearly. a word doucument help peaple to easy reading and understand clearly such as difference structure between heading ,sub heading and pargraphs. 
  
- ![img](assets/word.png)
+ ![img](/assets/word.png)
 
 # structure web 
 
@@ -39,7 +39,7 @@
  `</html>`
 
 ## This is the Description : 
- ![img](assets/html.png)
+ ![img](/assets/html.png)
 
 # HTML Version
  The html version that will use it is : HTML5,so when use HTML code you must write befor anything
@@ -67,7 +67,7 @@
 
  ### result 
 
- ![img](assets/res..png)
+ ![img](/assets/res..png)
 
  2- ID Attribute 
 
@@ -102,17 +102,16 @@
 
      <html>
 
-
 ### result 
 
- ![img](assets/ss.png) 
+ ![img](/assets/ss.png) 
 
  3- Class Attribute  
  A method for identifying multiple items
 On it is different from
 Other items on the page.
 
- ![img](assets/22.png)
+ ![img](/assets/22.png)
 
 4- Block Elements 
  are the elements that will  appear to start on a new line in the browser window.
@@ -135,7 +134,7 @@ The < div> element allows you to group a set of elements together in one block-l
 
 ### Example 
 
-![img](assets/ee.png)
+![img](/assets/ee.png)
 
 7- Grouping Text & Elements Inline :
 
@@ -223,13 +222,13 @@ when we work any website we must know the important point who is the target audi
  also you must answer for question why the users are visiting your website if you have in your web site  motivations users and hit their goals will be sucsses website
 
 Also when start desgin your website page you must to You should take care of the site map, which will greatly help your website succeed ,This image example map site 
-![img](assets/5.png)
+![img](/assets/5.png)
 
 and also we need a care about WireFrames that you can
 ensure that all of the information
 that needs to be on a page is
 included. below image ia an example for wireframes 
-![img](assets/88.png)
+![img](/assets/88.png)
  
 
  Also Visual hierarchy is an important to care about because  will help you to communicate with the users on the website 

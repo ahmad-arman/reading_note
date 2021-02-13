@@ -5,7 +5,8 @@ use chang style page place text ,color , background color , height line , border
 CSS rule
 contains two parts: a selector and a declaration.
 
-![img](assets/ugdagfl.png)
+![img](/assets/ugdagfl.png)
+
 
 CSS declarations sit inside curly brackets and each is made up of two parts:
  a property and a value, separated by a colon. You can specify
@@ -143,7 +144,7 @@ style sheets).
 
 ## example 
 
-![img](assets/jjjdff.png)
+![img](/assets/jjjdff.png)
 
 
 
@@ -199,7 +200,7 @@ color is MediumAquaMarine).
  ## Background Color
  can change  background-color like that : 
 
- ![img](assets/pihghfgf.png)
+ ![img](/assets/pihghfgf.png)
 
  # color real 
  Every color on a computer screen is created by mixing amounts of red,

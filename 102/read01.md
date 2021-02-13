@@ -19,11 +19,11 @@ TextWrangler, with Bare Bones
 
 6- Sublime Text 3 is not free ,fast and responsive
 
-![img](assets/1.jpg)
+![img](/assets/1.jpg)
 
-![img](assets/2222.jpeg)
+![img](/assets/2222.jpeg)
 
-![img](assets/9999.png)
+![img](/assets/9999.png)
 
 # The Differint Between Texe Editor And IDEs
 

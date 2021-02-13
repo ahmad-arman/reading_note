@@ -21,7 +21,7 @@
 
 # Here’s a simple  differences between a fixed and a growth mindset:
 
-![img](assets/mind.png)   
+![img](/assets/mind.png)   
 
 
 

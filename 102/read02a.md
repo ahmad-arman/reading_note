@@ -21,7 +21,7 @@ this program you can control in of thes  document,formatting words as bold or it
 
 ### result : 
  
-  ![img](assets/555.png)
+  ![img](/assets/555.png)
 
 ### 2-list :
 
@@ -142,7 +142,7 @@ you can italic text by add
  can use to make a table by creat hyphen - and pipe :|
 
 ### example 
- ![img](assets/999.png)
+ ![img](/assets/999.png)
   
 ### 11- Username @mentions
 

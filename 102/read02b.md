@@ -42,7 +42,7 @@ git is VDCS (distributed version control system) , it easy to learn and it is as
   12-git reomte -v (you can view all the remote URLs )
 
   for example 
-![img](assets/aa.png)
+![img](/assets/aa.png)
 
 
 # when change on local (main) and want pushes with remote repository (origin) 
@@ -55,7 +55,7 @@ you need three steps :
 3-git push origin main 
 
 # The Life Cycle of File Status 
-![img](assets/eee.png)
+![img](/assets/eee.png)
 
 
 

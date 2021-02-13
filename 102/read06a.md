@@ -5,11 +5,11 @@
 
 ## A BASIC FUNCTION 
 
- ![img](assets/kl.png)
+ ![img](/assets/kl.png)
 
 ## declaring a function 
 
-![img](assets/ppppppp.png)
+![img](/assets/ppppppp.png)
 
 ## Invoking a JavaScript Function
 The code inside a function is not executed when the function is defined.
@@ -18,7 +18,7 @@ The code inside a function is executed when the function is invoked.
 
 It is common to use the term "call a function" instead of "invoke a function".
 
-![img](assets/ssdf.png)
+![img](/assets/ssdf.png)
 
 ## declaring a function that need information 
 
@@ -27,15 +27,15 @@ parameter act like a variables
 
 ## for example 
 
-![img](assets/aaaa.png)
+![img](/assets/aaaa.png)
 
 ## calling a function that need information 
 when calling the function we need some information inside to enable the function work 
 
 ## for example 
 
-![img](assets/ssss.png)
+![img](/assets/ssss.png)
 
 ## getting a single value out of function 
 
-![img](assets/eeee.png)
+![img](/assets/eeee.png)

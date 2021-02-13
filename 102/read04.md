@@ -1,5 +1,5 @@
 # Javascript 
- ![img](assets/image3.webp)
+ ![img](/assets/image3.webp)
  <br>
  
 
@@ -27,7 +27,7 @@ when a specific event has occurred.)
 
 1- Slidesshows
 
-![img](assets/888998.png)
+![img](/assets/888998.png)
 
 React : Script triggered when the page loads
 
@@ -89,12 +89,12 @@ area = 3 * 2;
  which you can use with numbers
 You may remember some from math class 
 
-![img](assets/44.png)
+![img](/assets/44.png)
 
 ## using aritmethic operators
 The numbers do not need to be written explicitly into the code 
 
-![img](assets/666666.png)
+![img](/assets/666666.png)
 
 ##  string operator
 that is use for symbol without number 
@@ -110,7 +110,7 @@ var ful l Name = firstName + lastName
 if put number inside single cotation the program consist this number is string ,whitout single cotation program
 consist this number is number 
 
-![img](assets/56.png)
+![img](/assets/56.png)
 
 # Function 
 ## what is the function 
@@ -140,15 +140,15 @@ and in link page app.js/lab04.js can work and write every function thire .
 ### declaring a function : 
  you give  it a name and then write the statment need  
 
- ![img](assets/hh.png)
+ ![img](/assets/hh.png)
 
 ### calling a function : 
 you can then excute all of statement between its cury braces with just one line code 
 
-![img](assets/777.png)
+![img](/assets/777.png)
 
 ### declaring function that need information 
  sometime a function needs information to perform its task 
 
- ![img](assets/ppp.png)
+ ![img](/assets/ppp.png)
 
