@@ -21,7 +21,7 @@ I live in Amman,I am 23 years old,I Like a software ,I like drive cars.
 
 | read                     |link         |
 |-----------               |-------------|
-|  Growth mindset          | [Growth mindset](102/mindset.md|
+|  Growth mindset          | [Growth mindset](102/mindset.md)|
 |text editor               |[text editor ](102/read01.md)|
 |Markdown                  |[Markdown](102/read02a.md)|
 | Git                      |[Git](102/read02b.md)|
