@@ -18,25 +18,28 @@ I live in Amman,I am 23 years old,I Like a software ,I like drive cars.
 # **Table Content**
 
 ## **code 102**
-| read |link |
-|-----------|-------------|
- |  Growth mindset  | [Growth mindset](102/mindset.md)|
- |text editor |[text editor ](102/read01.md)|
- |Markdown |[Markdown](102/read02a.md)|
- | Git|[Git](102/read02b.md)|
- | HTML| [HTML](102/read03.md) |
- |example |[example](102/example.html)|
- |javascript |[javascript](102/read04.md)|
- |operator and loops | [operator and loops](102/read05.md)|
- |founction| [founction](102/read06a.md)|
- |web page with css | [web page with css](102/read06b.md)|
+
+| read                     |link         |
+|-----------               |-------------|
+|  Growth mindset          | [Growth mindset](102/mindset.md|
+|text editor               |[text editor ](102/read01.md)|
+|Markdown                  |[Markdown](102/read02a.md)|
+| Git                      |[Git](102/read02b.md)|
+| HTML                     | [HTML](102/read03.md) |
+|example                   |[example](102/example.html)|
+|javascript                |[javascript](102/read04.md)|
+|operator and loops        | [operator and loops](102/read05.md)|
+|founction                 | [founction](102/read06a.md)|
+|web page with css         | [web page with css](102/read06b.md)|
+
  
 ## **code 201**
-| read |link |
+
+| read      |link |
 |-----------|-------------|
- |class-01 | [class-01](201/class-01.md)|
- |class-02 | [class-02](201/calss-02.md)|
- 
+|class-01   | [class-01](201/class-01.md)|
+|class-02   | [class-02](201/calss-02.md)|
+
  
 
  
