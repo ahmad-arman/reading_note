@@ -93,7 +93,7 @@ You can put a second list inside an` <li>` element to create a sublist or nested
 do not ask your self how can I made box for h1 or paragraph now we learn about box <br>
 1- <b>box dimensions</b>: you  can change diemensions box by defined number for width and height<br>
 
-![img](/assets/yuah.png)
+![img](../assets/yuah.png)
 
 2-<b>Limiting Width/height min-width/height, max-width/height</b>:  to defined the max ,min width or height  as you like .<br>
 
@@ -101,7 +101,7 @@ do not ask your self how can I made box for h1 or paragraph now we learn about b
 a-<i> hidden</i> :This property simply hides any extra content that does not fit in the box.<br>
 b-<i>scroll</i> This property adds a scrollbar to the box so that users can scroll to see the missing content.<br>
 ## exmple 
-![img](/assets/jdoooi.png)
+![img](../assets/jdoooi.png)
 
 ## Border,Margin & Padding
 every boxes you have three properties that can be adjusted to control its appearance:<br>
@@ -109,7 +109,7 @@ every boxes you have three properties that can be adjusted to control its appear
 2-padding :Padding is the space between the border of a box and any content contained within it.  <br>
 3-margin : Margins sit outside the edge of the border.
 
-![img](/assets/jsjio.png)
+![img](../assets/jsjio.png)
 
 ## White space & Vertical Margin
 
