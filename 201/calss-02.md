@@ -266,6 +266,24 @@ var ful l Name = f irstName + l astName;<br>
 
 # deciosn and loop 
 
+In order for a script to determine which path to take, one must rely on the following concepts:
+
+Evaluation: analyze values to determine wether they match expected results.<br>
+Decisions: based on the result of evaluation, one can decide which path the script should take.<br>
+Loops: when you want to perform the same set of code more than once.<br>
+NOTE Flowcharts are really helpful to make decision of which path the script should take.<br>
+
+## Steps of making a decision:
+ 1- first evaluate the statement then return a value.<br>
+2- second a path/condition is applied to each case or situation.<br>
+Comparison operators<br>
+The result when evaluating a situation by comparsion is boolen ie; true or false.
+
+## If statement
+to check a condition, if the condition equals true, any statement after the code block is applied
+
+# SWITCH STATEMENTS
+A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
 
 
 
