@@ -52,16 +52,15 @@ To create a break between themes — such as a change of topic in a book or a ne
 ![img](../assets/lsllflf.png)
 
 # Semantic Markup
-|tag element |        description     |    example          |      result      |
-|------------|------------------------|---------------------|------------------|
+|tag element |        description                           |              example          |               result                 |
+|------------|----------------------------------------------|-------------------------------|--------------------------------------|
 |`<strong>`  |to defined content has strong importance      |`ahmad<strong>ibrahim</strong>`| ahmad<strong>ibrahim</strong>|
-|`<em>`      |show the contents of an <em> element in italic|`ahmad <em>ibrahim</em>`| ahmad <em>ibrahim</em>|
-|            |                        |                      
-|`<blockquote>`|used for longer quotes| `<blockguote>ahmad is succsess man in the live</blockguote>`|<blockguote>ahmad is succsess man in the live</blockguote> |
+|`<em>`      |show the contents of an <em> element in italic|`ahmad <em>ibrahim</em>`      | ahmad <em>ibrahim<em>|                     
+|`<blockquote>`|used for longer quotes | `<blockguote>ahmad is succsess man in the live</blockguote>`|<blockguote>ahmad </blockguote> |
 |`<q>`       | used for shorter quotes |`<q>software is impornant </q>`|<q>software is impornant </q>|
 |`<abbr>`    |tag is used to specify the full term |`<abbr>proof this is how </abbr>`|<abbr>proof this is how </abbr>|
-|`<cite>`    | can be used to indicate where the citation|`<cite>A Brief History of Time</cite>` any think write here|<cite>A Brief History of Time</cite> any think write here|
-|`<dfn>`     |used to indicate the defining instance of a new term| `<dfn>black hole</dfn> is a region of space`|<dfn>black hole</dfn> is a region of space|
+|`<cite>`    | can be used to indicate where the citation|`<cite>A Brief History of Time</cite>` any think write here|<cite>A </cite> |
+|`<dfn>`     |used to indicate the defining instance of a new term| `<dfn>black hole</dfn> is a region of space`|<dfn>black hole</dfn>|
 |`<address>` | use to contain contact details for the author of the page|`<address><a href="aa0796780751@gmail.com">aa0796780751@gmail.com</a> </address>`|<address><a href="aa0796780751@gmail.com">aa0796780751@gmail.com</a> </address>
 |`<ins>`     |used to show content that has been inserted into a document |`<ins>ahmad</ins>`|<ins>ahmad</ins>|
 |`<del>`     | show text that has been deleted from it|`<del> ahmad</del>` |<del>ahmad</del> |
