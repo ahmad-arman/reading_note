@@ -111,7 +111,84 @@ every boxes you have three properties that can be adjusted to control its appear
 
 ![img](../assets/jsjio.png)
 
-## White space & Vertical Margin
+
+## Border Width 
+The border-width property is used to control the width of a border. using one of the following values: thin , medium , thick
+You can control the individual size of borders using four separate properties:<br>
+border-top-width<br>
+border-right-width<br>
+border-bottom-width<br>
+border-left-width<br>
+
+## Border Style
+
+You can control the style of a border using the border-style property. This property can take the following values: p.one {border-style: solid;} we have many type : <br>
+1-soild <br>
+2-dotted<br>
+3-dashed<br>
+....atc...
+
+## Border Color
+ It is possible to individually control the colors of the borders on different sides of a box using:
+
+border-top-color<br>
+border-right-color<br>
+border-bottom-color<br>
+border-left-color<br>
+ It is also possible to use ashorthand to control all four colors in the one property:<br>
+  `border-color:2%,solid,red :`<br>
+ The border property allows you to specify the width, style and color of a border in one property
+
+## PADDING
+The padding property allows you to specify how much space should appear between the content of an element and its border.<br>
+we can change any direction padding you want chang like that :<br>
+1- padding-top<br>
+2- padding-right<br>
+3- padding-bottom<br>
+4- padding-left<br>
+
+## MARGIN
+The margin property controls the gap between boxes. Its value is commonly given in pixels, although you may also use percentages or ems.<br>
+You can specify values for each side of a box using:<br>
+margin-top<br>
+margin-right<br>
+margin-bottom<br>
+margin-left<br>
+
+------------------------------------------------------------------------------------
+
+# Arrays
+when you do not know how many items a list will contain because, when you create the array, you do not need to specify how many values it will hold, that is meain a list of value .<br>
+1- You create an array and give it a name just like you would any other variable (using the var keyword followed by the name of the array)<br> 
+2- The values are assigned to the array inside a pair of square brackets, and each value is separated by a comma.<br>
+3-Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one)<br>
+
+
+# if Conditional Statements
+
+use if condition when you need to go two way every way apply different of other way .
+
+# switch stetment 
+  switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value<br>
+  The switch statement is used to perform different actions based on different conditions<br>
+
+
+# TRUTHY & FALSY VALUES
+ <b>Falsy</b>: values are treated as if they are fa1se.<br>
+ <b> Truthy </b>: values are treated as if they are true</br>
+
+ ![img](../assets/khukl.png)
+
+
+# loop 
+check condition ,if it the result is true , the code is run , then chcek one more if result is true will the code is run , it reapet until the condition result is false <br>
+## Ther are three comment type of loops :
+1-for : when need to run the code number of time 
+
+2-while : when you do not knew how many time the code should run .
+
+3-do while : that same while but different ,it always run the stetment inside the curly bracts
+
 
 
 
