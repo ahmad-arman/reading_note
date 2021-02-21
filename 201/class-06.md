@@ -1,3 +1,8 @@
+The problem domain its really the hardest part of programming .
+If understanding the problem domain is the hardest part of programming and you want to make programming easier, you can do one of two things:
+
+- Make the problem domain easier
+- Get better at understanding the problem domain
 # OPJECT 
 a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names.<br>
 1- If a variable is part of an object, it is called a property. Properties tell us about the object, such as the name of a hotel or the number of rooms it has.<br>
