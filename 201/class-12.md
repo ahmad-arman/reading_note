@@ -1,3 +1,21 @@
+# Chart.js
+Chart.js can be used with ES6 modules, plain JavaScript and module loaders.
+
+## Chart type
+The types of charts that you can use:<br>
+1-Line<br>
+2-Bar<br>
+3-Radar<br>
+4-Doughnut and Pie<br>
+5-Polar area<br>
+6-Bubble<br>
+7-Scatter<br>
+
+
+
+
+![img](https://steemitimages.com/640x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1514129984/ccmoj2hea1idle17ywfx.png)
+
 # The canvas element 
 
 `<canvas id="tutorial" width="150" height="150"></canvas>`<br>
