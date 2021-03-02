@@ -4,9 +4,9 @@ ersistent local storage is one of the areas where native client applications hav
 ## What we really want is
 
 1-a lot of storage space<br>
-on the client<br>
-that persists beyond a page refresh<br>
-and isn’t transmitted to the server<br>
+2-on the client<br>
+3-that persists beyond a page refresh<br>
+4-and isn’t transmitted to the server<br>
 
 ## So what is HTML5 Storage? 
 Simply put, it’s a way for web pages to store named key/value pairs locally, within the client web browser. Like cookies, this data persists even after you navigate away from the web site, close your browser tab, exit your browser, or what have you. Unlike cookies, this data is never transmitted to the remote web server (unless you go out of your way to send it manually). Unlike all previous attempts at providing persistent local storage, it is implemented natively in web browsers, so it is available even when third-party browser plugins are not.
@@ -22,14 +22,14 @@ function supports_html5_storage() {
 }
 
 ## STORAGE EVENT OBJECT
- |PROPERTY   |	TYPE   |                                  	DESCRIPTION                                                   |
- |-----------|---------|--------------------------------------------------------------------------------------------------|
- |key	     |string   |	the named key that was added, removed, or modified |
- |oldValue	 | any     |	the previous value (now overwritten), or null if a new item was added |
- |newValue   | 	any	   |     the new value, or null if an item was removed |
- |  url*	 |string   |	the page which called a method that triggered this change|
+
+ |PROPERTY   |	TYPE   |                       	DESCRIPTION                                                   |
+ |-----------|---------|--------------------------------------------------------------------------------------|
+ |key	     |string   |	           the named key that was added, removed, or modified                     |
+ |oldValue	 | any     |       	the previous value (now overwritten), or null if a new item was added         |
+ |newValue   | 	any	   |                 the new value, or null if an item was removed                        |
+ |  url*	 |string   |	         the page which called a method that triggered this change                |
 
 * Note: the url property was originally called uri. Some browsers shipped with that property before the specification changed. For maximum compatibility, you should check whether the url property exists, and if not, check for the uri property instead.
 
 
-##
