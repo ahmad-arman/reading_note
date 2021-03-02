@@ -22,11 +22,11 @@ function supports_html5_storage() {
 }
 
 ## STORAGE EVENT OBJECT
- |PROPERTY   |	TYPE   |	DESCRIPTION                  |
- |-----------|---------|---------------------------------|
+ |PROPERTY   |	TYPE   |                                  	DESCRIPTION                                                   |
+ |-----------|---------|--------------------------------------------------------------------------------------------------|
  |key	     |string   |	the named key that was added, removed, or modified |
  |oldValue	 | any     |	the previous value (now overwritten), or null if a new item was added |
- |newValue   | 	any	   |the new value, or null if an item was removed |
+ |newValue   | 	any	   |     the new value, or null if an item was removed |
  |  url*	 |string   |	the page which called a method that triggered this change|
 
 * Note: the url property was originally called uri. Some browsers shipped with that property before the specification changed. For maximum compatibility, you should check whether the url property exists, and if not, check for the uri property instead.
