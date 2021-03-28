@@ -1,8 +1,8 @@
 # Responsive Web Design
 
- ## is the practice of building a website suitable to work on every device and every screen size
+## is the practice of building a website suitable to work on every device and every screen size
 
- ### Responsive vs. Adaptive vs. Mobile
+### Responsive vs. Adaptive vs. Mobile
 Responsive generally means to react quickly and positively to any change, adaptive means to be easily modified for a new purpose or situation
 
 # Flexible Layouts
