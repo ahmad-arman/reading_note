@@ -25,7 +25,7 @@ Values:
 `<track-size>` – can be a length, a percentage, or a fraction of the free space in the grid (using the fr unit) <br>
 `<line-name>` – an arbitrary name of your choosing <br>
 
-![img](/assets/last.png)
+![img](../assets/last.png)
 
 
 ## justify-items
@@ -38,7 +38,7 @@ end – aligns items to be flush with the end edge of their cell <br>
 center – aligns items in the center of their cell  <br>
 stretch – fills the whole width of the cell (this is the default) <br>
 
-![img](/assets/last1.png)
+![img](../assets/last1.png)
 
 
 # Properties for the Children 
@@ -61,7 +61,7 @@ span `<number>` - the item will span across the provided number of grid tracks <
 span `<name>` – the item will span across until it hits the next line with the provided name <br>
 auto – indicates auto-placement, an automatic span, or a default span of one <br>
 
-![img](/assets/last2.png)
+![img](../assets/last2.png)
 
 
 ### Reference 
