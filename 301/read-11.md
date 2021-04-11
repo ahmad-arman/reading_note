@@ -1,16 +1,17 @@
  #  Options
   `cache` Compiled functions are cached, requires filename <br>
  `filename` Used by cache to key caches, and for includes<br>
- `root` Set project root for includes with an absolute path (e.g, /file.ejs). Can be array to try to resolve include from multiple directories.<br>
-` views` An array of paths to use when resolving includes with relative paths. <br>
+ `root` Set project root for includes with an absolute path (e.g, /file.ejs). Can be array to try to
+   resolve include from multiple    directories.<br>
+ ` views` An array of paths to use when resolving includes with relative paths. <br>
  `context` Function execution context <br>
  `compileDebug` When false no debug instrumentation is compiled <br>
- client Returns standalone compiled function<br>
- delimiter Character to use for inner delimiter, by default '%'<br>
- openDelimiter Character to use for opening delimiter, by default '<' <br>
- closeDelimiter Character to use for closing delimiter, by default '>' <br>
- debug Outputs generated function body <br>
- strict When set to `true`, generated function is in strict mode <br>
+ `client` Returns standalone compiled function<br>
+ `delimiter` Character to use for inner delimiter, by default '%'<br>
+ `openDelimiter` Character to use for opening delimiter, by default '<' <br>
+ `closeDelimiter` Character to use for closing delimiter, by default '>' <br>
+ `debug` Outputs generated function body <br>
+ `strict` When set to `true`, generated function is in strict mode <br>
  _with Whether or not to use with() {} constructs. If false then the locals will be stored in the locals object. (Implies `--strict`) <br>
  
 
@@ -49,50 +50,50 @@
 
   ```
   - views
------ partials
----------- footer.ejs
----------- head.ejs
----------- header.ejs
------ pages
----------- index.ejs
----------- about.ejs
-- package.json
-- server.js
+ ----- partials
+ ---------- footer.ejs
+ ---------- head.ejs
+ ---------- header.ejs
+ ----- pages
+ ---------- index.ejs
+ ---------- about.ejs
+ - package.json
+ - server.js
 
   ```
 
-Here we define our application and set it to show on port 8080. We also have to set EJS as the view engine for our Express application using `app.set('view engine', 'ejs');`. Notice how we send a view to the user by using` res.render()`. It is important to note that` res.render()` will look in a views folder for the view. So we only have to define pages/index since the full path is
+ Here we define our application and set it to show on port 8080. We also have to set EJS as the view engine for our Express application using `app.set('view engine', 'ejs');`. Notice how we send a view to the user by using` res.render()`. It is important to note that` res.render()` will look in a views folder for the view. So we only have to define pages/index since the full path is
  views/pages/index.
+  
+ ```
+ // load the things we need
+ var express = require('express');
+ var app = express();
 
-```
-// load the things we need
-var express = require('express');
-var app = express();
+ // set the view engine to ejs
+ app.set('view engine', 'ejs');
 
-// set the view engine to ejs
-app.set('view engine', 'ejs');
+ // use res.render to load up an ejs view file
 
-// use res.render to load up an ejs view file
-
-// index page
-app.get('/', function(req, res) {
+ / / index page
+ app.get('/', function(req, res) {
     res.render('pages/index');
-});
+ });
 
-// about page
-app.get('/about', function(req, res) {
+ // about page
+ app.get('/about', function(req, res) {
     res.render('pages/about');
-});
+ });
 
-app.listen(8080);
-console.log('8080 is the magic port');
+ app.listen(8080);
+ console.log('8080 is the magic port');
 
-```
+ ```
 
-Go ahead and start the server using: <br>
-`node server.js`  <br>
+ Go ahead and start the server using: <br>
+ `node server.js`  <br>
 
-Now we can see our application in the browser at http://localhost:8080 and http://localhost:8080/about. Our application is set up and we have to define our view files and see how EJS works there.
+ Now we can see our application in the browser at http://localhost:8080 and http://localhost:8080/about. Our application is set up and we have to define our view files and see how EJS works there.
 
 
 
