@@ -28,3 +28,5 @@
 
 
 ### [Reference](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
+
+[main page](https://ahmad-arman.github.io/reading_note/)
