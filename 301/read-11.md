@@ -1,4 +1,4 @@
- #  Options
+#  Options
   `cache` Compiled functions are cached, requires filename <br>
  `filename` Used by cache to key caches, and for includes<br>
  `root` Set project root for includes with an absolute path (e.g, /file.ejs). Can be array to try to
