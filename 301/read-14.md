@@ -1,0 +1,13 @@
+# DATABASE NORMALIZATION 
+
+
+
+
+
+
+
+
+
+
+
+## Reference 
