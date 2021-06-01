@@ -28,10 +28,9 @@ To avoid missing an event by caching the events on the server and when the clien
 
  * UDP :User Datagram Protocol: is a communications protocol that is primarily used for establishing low-latency and loss-tolerating connections between applications on the internet. It speeds up transmissions by enabling the transfer of data before an agreement is provided by the receiving party.
 
-[REFERENCE-One](path)
+[Socket.io Chat Example](https://socket.io/get-started/chat/)
 
-[REFERENCE-One](path)
+[Rooms and Namespaces](https://socket.io/docs/v3/rooms/index.html)
 
-[REFERENCE-One](path)
+[Socket.io Emit Cheatsheet](https://socket.io/docs/v3/emit-cheatsheet/index.html)
 
-[REFERENCE-One](path)
