@@ -42,7 +42,7 @@ Amazon Simple Storage Service is a service offered by Amazon Web Services that p
 
 ## AWS Lambda 
 
- is a serverless computing service provided by Amazon Web Services (AWS). Users of AWS Lambda create functions, self-contained applications written in one of the supported languages and runtimes, and upload them to AWS Lambda, which executes those functions in an efficient and flexible manner.
+ is a serverless computing service provided by Amazon Web Services (AWS). Users of AWS Lambda create functions, self-contained applications written in one of the supported languages and runtime, and upload them to AWS Lambda, which executes those functions in an efficient and flexible manner.
 
 
 
