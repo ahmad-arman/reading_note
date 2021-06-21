@@ -25,3 +25,18 @@ React application is split into components, it is important that you can add fun
 
 ## Preparation Materials
 
+ * setState 
+
+ 1-) setState React components with state render UI based on that state. When the state of components changes, so does the component UI. setState() is the only way to update state after the initial state setup.
+ 2 -) Update to a component state should be done using setState() also you can pass an object or a function to setState() .
+
+ * State 
+  
+   The state is an instance of React Component Class can be defined as an object of a set of observable properties that control the behavior of the component. In other words, the State of a component is an object that holds some information that may change over the lifetime of the component.
+
+ * Props  
+    is a special keyword in React, which stands for properties and is being used for passing data from one component to another. Furthermore, props data is read-only, which means that data coming from the parent should not be changed by child components.
+    
+ *   Handling forms is about how you handle the data when it changes value or gets submitted. In HTML, form data is usually handled by the DOM. In React, form data is usually handled by the components.  When the data is handled by the components, all the data is stored in the component state
+
+ 
